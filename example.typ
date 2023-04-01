@@ -1,35 +1,25 @@
 #import "alta-typst.typ": alta, term, skill
 
 #alta(
-  name: "John Smith",
+  name: "Yaotian Liu",
   links: (
-    (name: "email", link: "mailto:contact@example.com"),
+    (name: "email", link: "mailto:yaotian_liu@qq.com"),
     (name: "website", link: "https://example.com/", display: "example.com"),
-    (name: "github", link: "https://github.com/example", display: "@example"),
-    (name: "linkedin", link: "https://linkedin.com/in/example", display: "John Smith"),
+    (name: "github", link: "https://github.com/Yaotian-Liu", display: "@Yaotian-Liu"),
+    // (name: "linkedin", link: "https://linkedin.com/in/example", display: "John Smith"),
   ),
   tagline: [Software Engineer. #lorem(10)],
   [
     == Experience
 
-    === Junior Software Engineer
+    === Digital IC Design Intern
 
-    _Company Two_\
+    _Shanghai Taize _\
     #term[Jul 2021 --- Jul 2022][London, UK]
 
     - #lorem(15)
     - #lorem(10)
     - #lorem(24)
-
-    === Junior Systems Administrator
-
-    _Company 1_\
-    #term[Oct 2019 --- Jul 2021][Bournemouth, UK]
-
-    - #lorem(20)
-    - #lorem(10)
-
-    References available on request
 
     == Education
 
